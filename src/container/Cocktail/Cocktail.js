@@ -67,7 +67,7 @@ const Cocktail = () => {
                     <p>Here is list cocktail we offers</p>
                     <Router>
                         <Switch>
-                            <Route exact path="/">
+                            <Route exact path="/cocktail">
                                 <CocktailFilter namefilter = {cocktail_name_filter} categoryfilter = {cocktail_category_filter} ingredientfilter = {cocktail_ingredient_filter} />
                                 <CocktailList detailfilter={cocktail_detail_view} cocktailitems={ cocktail } />
                             </Route>

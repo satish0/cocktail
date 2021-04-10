@@ -1,0 +1,18 @@
+.cocktail-inner {
+    padding: 50px 0;
+}
+.cocktail-inner > h1, 
+.cocktail-inner > p {
+    text-align: center;
+    margin: 0;
+}
+.cocktail-inner > h1 {
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.cocktail-inner > p {
+    font-size: 20px;
+}
+.fetch-button {
+    color: red;
+}

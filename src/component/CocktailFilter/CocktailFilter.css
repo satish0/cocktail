@@ -1,0 +1,25 @@
+.cocktails-filters {
+    margin-top: 30px;
+}
+.cocktails-filters form {
+    display: flex;
+    justify-content: space-between;
+}
+.cocktails-filters .form-group {
+    display: flex;
+    align-items: center;
+}
+.cocktails-filters .form-group label {
+    margin-right: 10px;
+    width: 100%;
+}
+.cocktails-filters .form-group input {
+    max-width: 350px;
+    min-width: 250px;
+    width: 100%;
+    padding: 7px 10px;
+    display: inline;
+    border-radius: 5px;
+    border: 1px solid gray;
+    font-size: 16px;
+}

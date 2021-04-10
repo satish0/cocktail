@@ -1,0 +1,16 @@
+body {
+  color: #000000 !important;
+  font-size: 16px !important;
+  margin: 0;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.2 !important;
+  letter-spacing: unset !important;
+  background-color: white !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box !important;
+}
